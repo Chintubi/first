@@ -1,0 +1,374 @@
+15:54:05.934 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+15:54:06.129 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:54:08.647 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:54:08.840 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+15:54:08.993 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+15:54:09.189 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+15:54:09.338 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+15:54:09.471 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+15:54:09.585 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+15:54:09.781 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+15:54:11.432 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+15:54:11.540 INFO  testCases.TC001_AccountRegistrationTest - ********** Finish TestCases ***********
+15:55:20.689 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+15:55:20.848 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:55:24.102 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:55:24.251 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+15:55:24.366 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+15:55:24.520 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+15:55:24.621 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+15:55:24.719 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+15:55:24.837 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+15:55:25.000 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+15:55:26.913 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+15:55:26.998 INFO  testCases.TC001_AccountRegistrationTest - ********** Finish TestCases ***********
+16:14:33.144 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+16:14:33.412 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+16:14:36.001 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:14:36.121 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+16:14:36.252 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+16:14:36.449 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+16:14:36.561 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+16:14:36.673 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+16:14:36.761 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+16:14:36.959 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+16:14:37.820 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+16:14:46.429 ERROR testCases.TC001_AccountRegistrationTest - Test failed
+16:14:46.429 DEBUG testCases.TC001_AccountRegistrationTest - debug logs...
+14:32:36.624 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+14:32:36.949 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+14:32:39.174 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:32:39.373 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+14:32:39.535 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+14:32:39.721 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+14:32:39.938 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+14:32:40.103 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+14:32:40.262 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+14:32:40.543 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+14:32:41.827 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+14:33:00.787 ERROR testCases.TC001_AccountRegistrationTest - Test failed
+14:33:00.787 DEBUG testCases.TC001_AccountRegistrationTest - debug logs...
+14:33:30.993 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+14:33:31.265 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+14:33:33.512 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:33:33.707 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+14:33:33.855 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+14:33:34.050 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+14:33:34.196 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+14:33:34.358 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+14:33:34.514 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+14:33:34.716 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+14:33:35.818 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+14:33:40.647 ERROR testCases.TC001_AccountRegistrationTest - Test failed
+14:33:40.647 DEBUG testCases.TC001_AccountRegistrationTest - debug logs...
+14:49:02.246 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+14:49:02.474 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+14:49:04.468 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:49:04.621 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+14:49:04.747 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+14:49:04.883 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+14:49:05.003 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+14:49:05.108 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+14:49:05.237 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+14:49:05.398 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+14:49:06.346 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+14:49:26.504 ERROR testCases.TC001_AccountRegistrationTest - Test failed
+14:49:26.505 DEBUG testCases.TC001_AccountRegistrationTest - debug logs...
+16:07:35.651 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+16:07:38.809 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+16:40:54.951 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+16:40:58.583 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+15:07:50.804 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+15:07:54.708 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+15:49:35.750 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:35.759 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:35.763 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:37.120 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:38.146 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:38.148 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:38.151 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:38.188 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:38.230 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:38.238 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:38.244 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:38.274 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:38.378 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:38.381 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:38.386 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:38.420 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:38.487 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:38.493 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:38.504 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:38.553 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:38.619 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:38.622 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:38.625 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:38.662 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:38.721 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:38.722 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:38.725 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:38.754 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:38.788 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:38.791 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:38.797 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:38.823 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:38.896 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:38.898 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:38.901 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:38.933 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:38.981 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:38.983 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:38.985 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:39.023 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:39.086 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:39.088 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:39.089 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:39.107 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:39.179 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:39.180 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:39.181 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:39.212 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:39.234 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:39.236 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:39.237 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:39.260 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:39.357 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:39.362 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:39.364 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:39.379 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:39.417 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:39.419 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:39.420 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:39.487 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:39.550 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:39.554 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:39.556 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:39.586 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:39.614 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:49:39.616 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:49:39.618 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:49:39.661 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:49:39.759 INFO  testCases.TC003_LoginDDT - **********starting TC_003LoginDDT***********
+15:49:45.247 INFO  testCases.TC003_LoginDDT - **********Finished TC_003LoginDDT************
+15:49:45.264 INFO  testCases.TC003_LoginDDT - **********starting TC_003LoginDDT***********
+15:49:57.580 INFO  testCases.TC003_LoginDDT - **********Finished TC_003LoginDDT************
+15:49:57.585 INFO  testCases.TC003_LoginDDT - **********starting TC_003LoginDDT***********
+15:50:10.527 INFO  testCases.TC003_LoginDDT - **********Finished TC_003LoginDDT************
+15:50:10.534 INFO  testCases.TC003_LoginDDT - **********starting TC_003LoginDDT***********
+15:50:24.623 INFO  testCases.TC003_LoginDDT - **********Finished TC_003LoginDDT************
+15:50:24.629 INFO  testCases.TC003_LoginDDT - **********starting TC_003LoginDDT***********
+15:50:29.743 INFO  testCases.TC003_LoginDDT - **********Finished TC_003LoginDDT************
+16:38:59.417 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:38:59.427 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:38:59.432 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:00.290 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:00.525 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:00.527 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:00.530 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:00.573 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:00.635 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:00.639 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:00.654 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:00.729 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:00.797 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:00.799 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:00.809 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:00.850 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:00.895 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:00.897 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:00.910 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:00.948 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.052 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.054 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.056 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.074 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.129 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.131 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.133 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.149 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.177 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.178 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.180 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.202 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.233 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.235 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.250 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.271 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.351 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.353 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.356 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.379 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.462 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.469 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.473 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.494 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.540 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.544 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.546 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.561 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.596 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.598 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.600 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.640 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.696 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.703 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.705 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.733 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.761 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.790 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.791 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.807 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.858 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.859 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:01.861 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:01.912 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:01.973 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:01.976 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:39:02.030 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:02.046 DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:39:02.080 INFO  testCases.TC003_LoginDDT - **********starting TC_003LoginDDT***********
+16:39:07.808 INFO  testCases.TC003_LoginDDT - **********Finished TC_003LoginDDT************
+16:39:07.834 INFO  testCases.TC003_LoginDDT - **********starting TC_003LoginDDT***********
+16:39:20.806 INFO  testCases.TC003_LoginDDT - **********Finished TC_003LoginDDT************
+16:39:20.811 INFO  testCases.TC003_LoginDDT - **********starting TC_003LoginDDT***********
+16:39:35.330 INFO  testCases.TC003_LoginDDT - **********Finished TC_003LoginDDT************
+16:39:35.335 INFO  testCases.TC003_LoginDDT - **********starting TC_003LoginDDT***********
+16:39:49.027 INFO  testCases.TC003_LoginDDT - **********Finished TC_003LoginDDT************
+16:39:49.034 INFO  testCases.TC003_LoginDDT - **********starting TC_003LoginDDT***********
+16:39:54.794 INFO  testCases.TC003_LoginDDT - **********Finished TC_003LoginDDT************
+17:05:18.856 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+17:05:19.098 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+17:05:21.392 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+17:05:21.579 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+17:05:21.787 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+17:05:21.981 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+17:05:22.112 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+17:05:22.249 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+17:05:22.374 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+17:05:22.590 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+17:05:24.757 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+17:05:25.418 INFO  testCases.TC001_AccountRegistrationTest - ********** Finish TestCases ***********
+17:05:41.123 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+17:05:44.121 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+17:14:06.094 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+17:14:09.229 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+15:41:18.037 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+15:41:18.510 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:41:20.877 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:41:21.063 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+15:41:21.248 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+15:41:21.438 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+15:41:21.599 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+15:41:21.727 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+15:41:21.884 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+15:41:22.072 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+15:41:23.157 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+15:41:43.321 ERROR testCases.TC001_AccountRegistrationTest - Test failed
+15:41:43.323 DEBUG testCases.TC001_AccountRegistrationTest - debug logs...
+15:42:02.363 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+15:42:05.829 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+15:46:01.194 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+15:46:01.607 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:46:04.440 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:46:04.649 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+15:46:04.798 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+15:46:05.015 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+15:46:05.190 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+15:46:05.354 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+15:46:05.492 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+15:46:05.712 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+15:46:07.417 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+15:46:07.531 INFO  testCases.TC001_AccountRegistrationTest - ********** Finish TestCases ***********
+15:46:24.628 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+15:46:27.914 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+15:49:32.662 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+15:49:33.035 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:49:35.470 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:49:35.744 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+15:49:35.944 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+15:49:36.187 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+15:49:36.339 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+15:49:36.486 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+15:49:36.642 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+15:49:36.848 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+15:49:37.985 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+15:49:58.142 ERROR testCases.TC001_AccountRegistrationTest - Test failed
+15:49:58.144 DEBUG testCases.TC001_AccountRegistrationTest - debug logs...
+15:50:15.660 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+15:50:19.019 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+15:58:35.620 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+15:58:35.983 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+15:58:38.288 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:58:38.482 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+15:58:38.631 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+15:58:38.800 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+15:58:38.938 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+15:58:39.086 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+15:58:39.242 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+15:58:39.468 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+15:58:41.136 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+15:58:41.309 INFO  testCases.TC001_AccountRegistrationTest - ********** Finish TestCases ***********
+16:05:59.965 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+16:06:00.209 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+16:06:02.433 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:06:02.630 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+16:06:02.796 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+16:06:03.113 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+16:06:03.315 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+16:06:03.448 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+16:06:03.598 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+16:06:03.802 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+16:06:05.396 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+16:06:05.510 INFO  testCases.TC001_AccountRegistrationTest - ********** Finish TestCases ***********
+16:06:23.311 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+16:06:26.220 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+16:12:45.106 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+16:12:45.345 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+16:12:47.584 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:12:47.718 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+16:12:47.832 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+16:12:47.967 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+16:12:48.061 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+16:12:48.157 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+16:12:48.254 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+16:12:48.391 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+16:12:50.187 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+16:12:50.275 INFO  testCases.TC001_AccountRegistrationTest - ********** Finish TestCases ***********
+16:13:09.839 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+16:13:13.300 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+16:15:27.897 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+16:15:28.174 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+16:15:30.838 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:15:31.002 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+16:15:31.207 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+16:15:31.402 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+16:15:31.540 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+16:15:31.671 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+16:15:31.789 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+16:15:32.013 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+16:15:33.979 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+16:15:34.081 INFO  testCases.TC001_AccountRegistrationTest - ********** Finish TestCases ***********
+16:09:27.794 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+16:09:29.681 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+16:09:32.867 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:09:34.420 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+16:09:34.551 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+16:09:34.716 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+16:09:34.834 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+16:09:35.014 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+16:09:35.119 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+16:09:35.260 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
+16:09:36.900 INFO  testCases.TC001_AccountRegistrationTest - Clicked on continue btn
+16:09:37.059 INFO  testCases.TC001_AccountRegistrationTest - ********** Finish TestCases ***********
+16:09:55.181 INFO  testCases.TC002_AccountLoginTest - **********Starting TC002_AccountLoginTest********
+16:09:58.355 INFO  testCases.TC002_AccountLoginTest - **********Finished TC002_AccountLoginTest********
+17:06:42.732 INFO  testCases.TC001_AccountRegistrationTest - **************Starting TC001AccountRegistrationTest**************
+17:06:43.066 INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+17:06:45.044 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+17:06:45.190 INFO  testCases.TC001_AccountRegistrationTest - Clicked on FirstName
+17:06:45.329 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Last name
+17:06:45.500 INFO  testCases.TC001_AccountRegistrationTest - Clicked on email
+17:06:45.613 INFO  testCases.TC001_AccountRegistrationTest - Clicked on telephone
+17:06:45.721 INFO  testCases.TC001_AccountRegistrationTest - Clicked on password
+17:06:45.830 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Conf Password
+17:06:45.995 INFO  testCases.TC001_AccountRegistrationTest - Clicked on agree btn
